@@ -1,9 +1,9 @@
 {
   "name": "poshmark-tracker",
   "version": "1.0.0",
-  "main": "hyvent.js",
+  "main": "thermoball.js",
   "scripts": {
-    "start": "node hyvent.js",
+    "start": "node thermoball.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
